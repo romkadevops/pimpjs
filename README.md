@@ -1,8 +1,8 @@
 ## 💎 PIMPJS 💎
-An abstracted responsive UI/UX creation automation library based on vanilla JS.
+An abstracted responsive UI/UX creation automation library based on React.
 
 ## 🚀 Features
-- 📦 abstraction of typical design patterns in javascript to create common UI/UX components in a faster and more succinct way.
+- 📦 abstraction of typical design patterns in React to create common UI/UX components in a faster and more succinct way.
 - ⚡ Fast and lightweight (minimized and compressed)
 - 🛠️ Built with OOP principles.
 
